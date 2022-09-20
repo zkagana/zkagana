@@ -1,5 +1,12 @@
-### Hi there 👋
+### Short Bio
+Ziya Kağan Akman
 
+Second year MATH student at Bilkent University.
+
+### Interests
+- Mathematics
+- Music
+- Coding
 <!--
 **zkagana/zkagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
