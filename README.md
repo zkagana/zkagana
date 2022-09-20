@@ -6,7 +6,8 @@ Second year MATH student at Bilkent University.
 ### Interests
 - Mathematics
 - Music
-- Coding
+- Computer Science
+- Physics
 <!--
 **zkagana/zkagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
