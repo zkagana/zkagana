@@ -1,7 +1,7 @@
 ### Short Bio
 Ziya Kağan Akman
 
-Second year MATH student at Bilkent University.
+Second year MATH student
 
 ### Interests
 - Mathematics
